@@ -1,0 +1,4 @@
+Scenario,DemandMultiplier,Status,TotalProfit,ActiveLanes,SkippedMarketsNoLane
+Low Demand,0.7,Optimal,10737413.739999995,183,0
+Base Demand,1.0,Optimal,10562091.849999994,183,0
+High Demand,1.3,Optimal,10382317.393000005,184,0
