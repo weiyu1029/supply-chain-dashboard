@@ -36,12 +36,12 @@ This project helps visualize and optimize these scenarios interactively, enablin
 
 #  Key Features
 
-✅ Linear programming optimization model  
-✅ Shipment allocation optimization  
-✅ Scenario-based simulation analysis  
-✅ Supply chain network visualization  
-✅ Interactive Streamlit dashboard  
-✅ Operational KPI tracking  
+- Linear programming optimization model  
+- Shipment allocation optimization  
+- Scenario-based simulation analysis  
+- Supply chain network visualization  
+- Interactive Streamlit dashboard  
+- Operational KPI tracking  
 
 ---
 
